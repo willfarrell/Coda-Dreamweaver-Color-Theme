@@ -1,0 +1,1 @@
+Theme currently on covers PHP syntax. Coda only has one color tag for all html tags. Hopefully in version 2 Coda will have a more tag options like Dreamweaver.
